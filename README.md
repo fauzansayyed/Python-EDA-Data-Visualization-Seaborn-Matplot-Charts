@@ -47,6 +47,7 @@ Feel free to explore the codebase, experiment with different datasets, and contr
 
 ## Code
 
-You can find the code files and notebooks associated with this project in the [code]([link-to-code-folder](https://github.com/fauzansayyed/Python-EDA-Data-Visualization-Seaborn-Matplot-Charts/blob/main/github%20Python%20Data%20Visualization%20-%20Jupyter%20Notebook.pdf)) directory.
+You can find the final code file [here](https://github.com/fauzansayyed/Python-EDA-Data-Visualization-Seaborn-Matplot-Charts/blob/main/github%20Python%20Data%20Visualization%20-%20Jupyter%20Notebook.pdf).
+
 
 If you have any questions or suggestions, please feel free to reach out. Thank you for your interest in our Python EDA, Data Visualization, Seaborn, Matplotlib, Charts project!
