@@ -3,6 +3,11 @@
 
 Welcome to the Python EDA, Data Visualization, Seaborn, Matplotlib, Charts project! This project focuses on performing Exploratory Data Analysis (EDA) and creating impactful visualizations using Python. The primary libraries used for visualization are Seaborn, Matplotlib, and other charting tools.
 
+## Code
+
+You can find the final code file [here](https://github.com/fauzansayyed/Python-EDA-Data-Visualization-Seaborn-Matplot-Charts/blob/main/github%20Python%20Data%20Visualization%20-%20Jupyter%20Notebook.pdf).
+
+
 ## Project Overview
 
 ### Aim of Development:
@@ -45,9 +50,5 @@ This section showcases some of the key visualizations created during the EDA pro
 
 Feel free to explore the codebase, experiment with different datasets, and contribute to the ongoing development of this project. Your engagement could lead to the improvement of EDA methodologies and the creation of compelling visualizations.
 
-## Code
-
-You can find the final code file [here](https://github.com/fauzansayyed/Python-EDA-Data-Visualization-Seaborn-Matplot-Charts/blob/main/github%20Python%20Data%20Visualization%20-%20Jupyter%20Notebook.pdf).
 
 
-If you have any questions or suggestions, please feel free to reach out. Thank you for your interest in our Python EDA, Data Visualization, Seaborn, Matplotlib, Charts project!
